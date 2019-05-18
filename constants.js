@@ -1,0 +1,17 @@
+module.exports = {
+    API: "https://api2.r6stats.com/public-api/",
+    STATS: "stats/",
+    LEADERBOARD: "leaderboard/",
+    R6_TYPE_GENERIC: "generic",
+    R6_TYPE_SEASONAL: "seasonal",
+    R6_TYPE_OPERATORS: "operators",
+    R6_TYPE_WEAPONS: "weapons",
+    R6_TYPE_WEAPON_CATAGORIES: "weapon-catagories",
+    R6_PLATFORM_PC: "pc",
+    R6_PLATFORM_XBOX: "xbox",
+    R6_PLATFORM_PLAYSTATION: "ps4",
+    R6_REGION_ALL: "all",
+    R6_REGION_NCSA: "ncsa",
+    R6_REGION_EMEA: "emea",
+    R6_REGION_APAC: "apac",
+};
